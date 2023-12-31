@@ -5,6 +5,7 @@ Company wants to automate the loan eligibility process (real time) based on cust
 ## Solution
 
 Our solution using Support Vector Machine as machine learning core boasts 77% of accuracy.
+The model is saved as pickle file at path /model/model.pkl.
 
 ## Dependencies
 
