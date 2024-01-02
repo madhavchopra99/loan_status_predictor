@@ -17,3 +17,7 @@ The model is saved as pickle file at path /model/model.pkl.
 * Scikit-learn
 * Seaborn
 
+## Screenshots
+
+![Dependency on Education](https://raw.githubusercontent.com/madhavchopra99/loan_status_predictor/main/screenshot/education.png)
+![Dependency on Marital Status](https://raw.githubusercontent.com/madhavchopra99/loan_status_predictor/main/screenshot/marital_status.png)
